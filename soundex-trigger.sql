@@ -1,0 +1,7 @@
+-- SQL statements that are used to define the soundex trigger
+-- Include all your SQL statements:
+--   - new table creation
+--   - indexing creation
+--   - stored procedure creation
+--   - trigger creation
+--   - SELECT statement for new search
